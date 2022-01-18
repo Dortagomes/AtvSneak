@@ -1,0 +1,435 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+body{
+    font-family: 'gilroy';
+}
+
+.header-title{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    position: relative;
+    left: 88px;
+    top: 45px;
+    width: 100px;
+}
+
+.header li {
+    display: inline-block;
+}
+
+.div {
+        display: inline-block;
+}
+
+.div2 {
+        display: inline-block;
+}
+
+ header a{
+     text-decoration: none;
+     color: black;
+ }
+
+ .header-list{
+    position: relative;
+    left: 580px;
+    width: 550px;
+    top: 17px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+ }
+.nav-list{
+    margin-left: 27px;
+}
+.header-input{
+    font-weight: 235px;
+    height: 52px;
+    border-radius: 50px;
+}
+ .header-input__position{
+    position: relative;
+    left: 1275px;
+    top: -25px;
+    width: 250px;
+ }
+
+ .header-input{
+    background-image: url('../img/procurar.png');
+    background-repeat: no-repeat;
+    background-position-y: 16px;
+    background-position-x: 16px;
+    width: 235px;
+    height: 52px;
+    background-color: #f2f2f2;
+    border: 0;
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 50px;
+ }
+
+
+ .header-bag{
+    background-image: url('../img/carrinho.png');
+    background-repeat: no-repeat;
+    background-position-y: 16px;
+    background-position-x: 16px;
+    position: relative;
+    left: 1530px;
+    top: -80px;
+    height: 52px;
+    width: 52px;
+    background-color: #f2f2f2;
+    border-radius: 50px;
+
+ }
+ .section1-sneak{
+     display: inline-block;
+
+ }
+
+ .main-section1{
+    position: relative;
+    bottom: 150px;
+    width: 650px;
+    line-height: 155px;
+    font-size: 140px;
+    left: 80px;
+    font-weight: 700;
+    background: -webkit-linear-gradient(342deg, rgba(159,159,159) 0%, rgba(218,218,218) 35%);
+    -webkit-background-clip: text;    
+    -webkit-text-fill-color: transparent;
+ }
+ 
+.ellipse-backgroud{
+    display: inline-block;
+    left: 235px;
+    top: 30px;
+    position: relative;
+    width: 581px;
+    height: 581px;
+    border-radius: 50%;
+    background: linear-gradient(270.06deg,rgb(218, 218, 218, 0.2) 20.97% ,rgb(159, 159, 159, 0.2) 99.92% ) ;
+
+}
+
+.ellipse-tenis{
+    width: 1000px;
+    height: 541px;
+    position: absolute;
+    right: -183px;
+
+}
+ .main-p{
+    position: relative;
+    left: 91px;
+    bottom: 112px;
+    font-size: 25px;
+    line-height: 30px;
+    width: 500px;
+    font-weight: 400;
+ 
+}
+.main-button{
+ border: 2px solid rgba(31, 31, 31, 1); 
+ background-color: #fff;
+ position: relative;
+ height: 84px;
+ width: 336px;
+ left: 79px;
+ top: -24px;
+ border-radius: 12px;
+ background-image: url("../img/+.png");
+ background-repeat: no-repeat;
+ background-position-y: 31px;
+ background-position-x: 266px;
+ font-size: 20px;
+}
+
+.aside{
+    margin: 100px auto;
+    width: 92%;
+    line-height: 31px;
+    height: 902px;
+    left: 71px;
+    top: 175px;
+    border-radius: 8px;
+    background: rgba(243, 243, 243, 1);
+}
+.aside-text{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 114px;
+    text-align: center;
+    
+}
+.aside-list{
+    position: relative;
+    left: 678px;
+    top: 45px;
+}
+.aside-img{
+    margin-left: 540px;
+    bottom: -100px;
+    position: relative;
+}
+.aside-span{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    left: -270px;
+    display: inline;
+    position: relative;
+    top: 240px; 
+}
+.aside-button{    
+    border: 2px solid rgba(31, 31, 31, 1);
+    position: relative;
+    height: 84px;
+    width: 336px;
+    left: -460px;
+    top: 357px;
+    border-radius: 12px;
+    background-position-y: 31px;
+    background-position-x: 266px;
+    font-size: 20px;
+}
+
+
+.section-1{
+    margin: 0 80px;
+}
+.section-display{
+    display: inline-block;
+    vertical-align: top;
+}
+.section-leveza{
+     background: -webkit-linear-gradient(7deg,rgba(159,159,159) 0%, rgba(218,218,218) 35%);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     margin-bottom: 30px; 
+     font-size: 64px;
+     font-weight: 700;
+     line-height: 64px;
+     height: 70px;
+     width: 581px;
+     
+     
+}
+.section-p{
+    font-family: Gilroy;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    height: 112px;
+    width: 581px;
+    
+}
+.section-hylo{
+    position: relative;
+    left: 250px;
+}
+.section-hylo1{
+    position: relative;
+    height: 686px;
+    width: 500px;
+    left: 61px;
+    top: 367px;
+}
+.section-hylo2{
+    position: relative;
+    height: 685px;
+    width: 297px;
+    left: 66px;
+    top: 367px;
+}
+.section-hylo3{
+    position: relative;
+    font-size: 60px;
+    height: 130px;
+    width: 412px;
+    left: 1073px;
+    bottom: 323px;
+    background: linear-gradient(270.06deg,#DADADA 20.97%, #9F9F9F 99.92%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.section-hylo4{
+    position: relative;
+    font-size: 20px;
+    height: 247px;
+    width: 535px;
+    left: 1072px;
+    bottom: 259px;
+}
+.outrigger{
+    position: relative;
+    font-size: 88px;
+    height: 230px;
+    width: 500px;
+    left: 55px;
+    top: 144px;
+    background: linear-gradient(270.06deg,#DADADA 20.97%, #9F9F9F 99.92%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.outrigger2{
+    position: relative;
+    font-size: 28px;
+    height: 257px;
+    width: 734px;
+    left: 56px;
+    top: 160px;
+}
+.outrigger-img{
+    position: relative;
+    height: 600px;
+    width: 700px;
+    left: 896px;
+    bottom: 332px;
+}
+.aside-speed{
+    background-image: url('../img/tenis6.png');
+    background-repeat: no-repeat;
+    position: relative;
+    max-width: 100%; 
+    height: 722px;
+    bottom: 173px;
+    width: 1603px
+}
+.section-span__speed{
+    color: white;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 104px;
+    text-align: left;
+}
+.section-map{
+    position: relative;
+    left: 81px;
+    height: 838px;
+    bottom: 91px;
+}
+.section-contact{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 145px;
+    letter-spacing: 2px;
+    text-align: left;
+    border: 0;
+
+    background: #F3F3F3;
+    border-radius: 0px 8px 8px 0px;
+    bottom: 896px;
+    position: absolute;
+    width: 662px;
+    height: 840px;
+    left: 909px;
+    top: 5274px;
+}
+.form-nome{
+    position: relative;
+    height: 65px;
+    width: 517px;
+    left: 952px;
+    border-radius: 12px;
+    bottom: 1009px;
+    border: 0;
+}
+.form-email{
+    position: relative;
+    height: 76px;
+    width: 517px;
+    left: 430px;
+    bottom: 896px;
+    border-radius: 12px;
+    border: 0;
+}
+.form-coment{
+    height: 260px;
+    position: relative;
+    right: 88px;
+    width: 517px;
+    bottom: 544px;
+    border-radius: 12px;
+    border: 0;
+}
+.label-input{
+    position: relative;
+    height: 28px;
+    width: 373px;
+    margin: 0px 0px 0px -605px;
+    bottom: 481px;
+    font-size: 20px;
+    background: rgba(150, 150, 150, 1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border: 0;
+}
+.form-button{
+    position: relative;
+    height: 84px;
+    width: 517px;
+    left: 955px;
+    bottom: 495px;
+    border-radius: 12px;
+}
+.footer-ul{
+    display: inline-block;
+    margin-inline: 100px;
+        
+}
+.footer{
+    margin: -290px auto;
+    background: #F3F3F3;
+    position: relative;
+    left: 0px;
+    width: 1898px;
+    height: 289px;
+}
+.footer-h3{
+    left: 106px;
+    position: absolute;
+    top: 73px;
+}
+.footer-sneak{
+    position: relative;
+    top: 56px;
+    height: 28px;
+    width: 67px;
+    left: 80px;
+    }
+.footer-div{
+    position: absolute;
+    left: 356px;
+    top: 71px;
+    font-size: 20px;
+    line-height: 29px;
+}
+.redesocais{
+    position: absolute;
+    bottom: 53px;
+}
+.footer-p{
+    position: absolute;
+    left: 365px;
+    top: 11pc;
+    color: rgba(31, 31, 31, 1);
+}
+.footer-img{
+    position: absolute;
+    left: 509px;
+    top: 179px;
+}
